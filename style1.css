@@ -1,0 +1,23 @@
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: bottom;
+    
+}
+li{
+    display: inline-block;
+    color: white;
+    text-align: left;
+    padding: 20px;
+
+}
+.content2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    color: white;
+    
+}
